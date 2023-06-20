@@ -1,0 +1,38 @@
+
+.donortable{
+    width: 100vw;
+    height: 80vh;
+
+}
+.donortable table {
+  margin: 5rem auto;
+  border-radius: 2rem;
+  border: 1rem hidden #790c0c;
+  border-collapse: collapse;
+  box-shadow: 0 0 0 1px black;
+  overflow: hidden;
+  max-width: 80rem;
+}
+
+.donortable li, p, a, td{
+  font-size: 1.6rem;
+  line-height: 1.6;
+}
+
+.donortable thead {
+  font-size: 1.8rem;
+  background-color: #da2e2e;
+  color: #fff;
+}
+
+.donortable th,
+td {
+  border: 1px solid #da2e2e;
+  min-width: 20rem;
+  padding: 1rem;
+  line-height: 1;
+}
+
+.donortable td {
+  font-size: 0.5rem;
+}

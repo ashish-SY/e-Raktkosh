@@ -1,0 +1,15 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 100vh;
+    
+  }
+  .dashmain{
+    display: flex !important;
+     flex: 1; 
+  } 
+  .temp{
+    flex: 4;
+  
+  } 

@@ -1,0 +1,25 @@
+.otp-box{
+    width: 100vw;
+    height: 80vh;
+}
+.otp-box h1{
+    font-size: 40px;
+    font-weight:bold;
+    color: rgb(105, 8, 8);
+    margin:5% auto;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+}
+.btn-default{
+    background-color: #da2e2e;
+    color: white;
+    gap: 15px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 10px;
+    width: 40%;
+}
+.form-top{
+    margin-left: 18%;
+}

@@ -1,0 +1,8 @@
+.custom-marker {
+    background-color:rgb(209, 9, 9);
+    color: rgb(22, 210, 235);
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 20px;
+    cursor: pointer;
+  }

@@ -1,0 +1,52 @@
+.log-form{
+    background: url('../Components/images/mybg1.jpg');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(3, 3, 3);
+    margin: 0 auto; 
+    position:relative;
+    
+    height: 100vh;
+}
+.log-form h1{
+    font-size: 40px;
+    font-weight:bold;
+    color: rgb(105, 8, 8);
+    margin-top:5%;
+    text-align:center;
+    text-transform:uppercase;
+    letter-spacing: 2px;
+}
+.form-top{
+    margin-left: 18%;
+}
+.log-form label{
+    font-size: 20px;
+    font-weight: bold;
+} 
+u{
+    cursor: pointer;
+}
+.btn-default{
+    background-color: #da2e2e;
+    color: white;
+    gap: 10px;
+    font-size: 25px;
+    border-radius: 10px;
+    margin: 20px;
+    width: 50%;
+}
+.btn-default:hover{
+    background-color: rgb(143, 62, 62);
+    color: white;
+}
+.form-bottom p{
+    font-size: 20px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
